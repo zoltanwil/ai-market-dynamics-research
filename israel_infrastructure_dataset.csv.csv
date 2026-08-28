@@ -1,0 +1,18 @@
+item,owner_operator,us_parent,us_ticker,location,status,investment,capacity_or_metric,as_of,confidence,source_type
+Mevo Carmel server farm,Nvidia (leasing from Mega Or DC),Nvidia Corp.,NVDA,"Mevo Carmel, near Yokneam",Announced Dec 2025; ~18mo build,$1.5B total (~$465M infra+equipment),Largest planned server farm in Israel,2025-12,Confirmed,Press
+Kiryat Tivon R&D campus,Nvidia,Nvidia Corp.,NVDA,Kiryat Tivon,Construction planned from 2027,Part of >$1.5B commitment,R&D campus,2025-12,Confirmed,Press
+Israel-1 / Ramot Menashe server farm,Nvidia (with Shoval Paz),Nvidia Corp.,NVDA,Ramot Menashe,Operational,~$500M,Supercomputer / existing server farm,2025,Confirmed,Press
+Google Cloud region (me-west1),Google Cloud (built by ServerFarm),Alphabet Inc.,GOOGL,"Bnei Zion, Modi'in, Petah Tikva (3 zones)",Operational since 2023,Part of $1.2B Nimbus tender,3 availability zones,2023,Confirmed,Press
+AWS Israel (Tel Aviv) Region,Amazon Web Services,Amazon.com Inc.,AMZN,Tel Aviv,Operational since 2023,$7.2B committed (2023-2037),Full AWS region,2023,Confirmed,Company/press
+AWS Sharon expansion (lease),Amazon Web Services,Amazon.com Inc.,AMZN,Sharon region (from Rotshtein RE),Letter of intent Nov 2025,n/a (42-dunam lease),Doubling Israel capacity,2025-11,Confirmed,Press
+Azure Israel Central,Microsoft,Microsoft Corp.,MSFT,Modi'in Technology Park,Operational since 2022,$1B-$1.5B reported,Full Azure region,2022,Confirmed,Press
+Project Nimbus (govt cloud contract),Google + Amazon (joint),Alphabet Inc. + Amazon.com Inc.,GOOGL+AMZN,Israel (national),"Signed 2021, 7-year term",$1.2B,National govt+public-sector cloud migration,2021,Confirmed,Press/govt
+Ofek project,Israel Infrastructure Fund + Serverfarm (for Dalia Energy),None (Israeli fund),n/a,Ashdod,Under construction,$1.5B (Israel's largest),Largest data center in Israel to date,2026,Confirmed,Press
+Be'er Tuvia twin facilities,Keystone (Israeli infrastructure fund),None (Israeli fund),n/a,Be'er Tuvia,Planning application Jan 2025,$388M+,Twin facilities,2025-01,Confirmed,Press
+Mega DC (portfolio),"Mega DC (Israeli, related to Mega Or)",None (Israeli),n/a,Multiple (Israel),7 projects under construction,n/a,313 MW weighted under construction + 280 MW land; NIS 1B+ projected annual NOI,2026 Q1,Confirmed,Press (Calcalist)
+MedOne underground data centers,MedOne (Israeli),None (Israeli),n/a,"Kfar Yona, near Tel Aviv","1st opens 2026, 2nd 2027",$270M,"2 underground DCs, 30,000 sqm",2025-02,Confirmed,Press
+Israel data center market size,Market-wide,Mixed,n/a,Israel (national),2025 actual,$539M (2025),Projected $1.81B by 2031 (CAGR ~22%),2025,Estimate,Market research (Arizton)
+Israel data center capacity,Market-wide,Mixed,n/a,Israel (national),Sep 2025,n/a,~300 MW existing + 927 MW pipeline,2025-09,Estimate,Market research (Arizton)
+AI infrastructure regulatory fast-track,Israeli Cabinet,None (Israeli govt),n/a,Israel (national),Decision Feb 2026,n/a,Single Approval Authority; cuts approval 24-36mo to 12-18mo,2026-02,Confirmed,Govt/press
+Electricity grid connection freeze,Israel Electricity Authority / Noga,None (Israeli govt),n/a,Israel (national),"140-day freeze, ~July 2026",n/a,~27 GW of requests (~3x national avg demand); existing 1.5 GW commitments exhaust planned capacity through 2035,2026-07,Confirmed,Press (Calcalist/JNS)
+Projected data center share of national electricity,Israel Electricity Authority,None (Israeli govt),n/a,Israel (national),Projection to ~2030,n/a,Server farms could be ~10% of Israel's total electricity by early 2030s,2026-07,Estimate,Govt/press

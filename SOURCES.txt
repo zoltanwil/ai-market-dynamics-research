@@ -1,0 +1,146 @@
+================================================================
+SOURCES — AI INDUSTRY MONETIZATION & ISRAEL INFRASTRUCTURE PROJECT
+Compiled via web search, July-August 2026
+All data is REAL (publicly sourced), not artificially generated.
+Confidence tiers noted per data point in the datasets themselves:
+  - "Confirmed"  = SEC filings, company announcements, direct press
+  - "Estimate"   = third-party/analyst figures for private companies
+================================================================
+
+--- DATASET 1: AI MONETIZATION ---
+
+SUBSCRIPTION & PRICING HISTORY
+- ChatGPT Plus launch (Feb 2023, $20): https://techcrunch.com/2023/02/01/openai-launches-chatgpt-plus-starting-at-20-per-month/
+- ChatGPT pricing history: https://www.saaspricepulse.com/blog/chatgpt-pricing-history-2022-2025
+- ChatGPT 2026 pricing tiers: https://suprmind.ai/hub/chatgpt/pricing/
+- Claude Pro launch (Sep 7 2023, $20): https://metronome.com/pricing-index/anthropic-claude-ai
+- Claude Max launch (Apr 2025, $100/$200): https://techcrunch.com/2025/04/09/anthropic-rolls-out-a-200-per-month-claude-subscription/
+- Claude pricing 2026: https://usagebox.com/articles/claude-pro-price-2026
+- Gemini Advanced / Google One AI Premium launch (Feb 8 2024, $19.99): https://9to5google.com/2024/02/08/google-one-ai-premium/
+- Gemini pricing 2026 / Ultra split: https://suprmind.ai/hub/gemini/pricing/
+
+API / TOKEN PRICING TRAJECTORY
+- LLM API pricing history (GPT-4 $60 -> lower): https://tokenmix.ai/blog/ai-pricing-trends-history
+- GPT-4o pricing history: https://pecollective.com/tools/gpt-4o-pricing/
+- OpenAI API pricing 2026: https://pecollective.com/tools/openai-api-pricing/
+- Claude Opus 4.5 67% price cut: https://claudefa.st/blog/models/claude-opus-4-5
+- Anthropic API pricing 2026: https://www.finout.io/blog/anthropic-api-pricing
+
+REVENUE (Q1 2025 vs Q1 2026)
+- OpenAI Q1 2026 revenue ($5.7B): https://www.wheresyoured.at/news-openai-had-a-negative-122-operating-margin-in-q1-2026-and-chatgpt-growth-has-stalled/
+- OpenAI Q1 2026 revenue ($5.7B, primary): https://www.theinformation.com/articles/openai-held-1-billion-revenue-lead-anthropic-first-quarter
+- OpenAI H1 2025 revenue ($4.3B, shareholder disclosures via The Information):
+  https://www.reuters.com / https://www.theinformation.com/articles/openais-first-half-results-4-3-billion-sales-2-5-billion-cash-burn
+- OpenAI ~$8B ARR as of March 2025: https://futuresearch.ai/openai-revenue-forecast/
+- OpenAI "$1B per quarter by end of 2024" (company statement): https://openai.com/index/accelerating-the-next-phase-ai/
+  NOTE: OpenAI does not report quarterly revenue. The $2.0B figure used for
+  Q1 2025 is an estimate, triangulated from the three sources above: H1 2025
+  totalled $4.3B, ARR was ~$8B in March 2025, and the company itself put the
+  end-2024 rate at $1B per quarter. Flagged "Estimate" in the dataset.
+- OpenAI revenue arc / $25B ARR: https://valueaddvc.com/blog/openai-revenue-2026-25b-arr-2b-month-and-the-path-to-profitability
+- OpenAI revenue/Sacra: https://sacra.com/c/openai/
+- Anthropic ARR arc ($9B->$30B->$47B): https://venturebeat.com/technology/anthropic-says-it-hit-a-30-billion-revenue-run-rate-after-crazy-80x-growth
+- Anthropic revenue/Sacra: https://sacra.com/c/anthropic/
+- Anthropic Q1 2026 ($4.8B): https://axis-intelligence.com/anthropic-statistics/
+- Anthropic Q1 2025 baseline ($0.35B, derived): the $1.0B end-2024 and $2.0B end-March-2025
+  annualized run-rate figures are company-confirmed via CNBC and collated in Epoch AI's
+  revenue dataset; the intermediate $1.4B (early March 2025) is The Information via Reuters.
+    https://epoch.ai/data/ai_companies_revenue_reports.csv
+    https://www.cnbc.com/2025/05/30/anthropic-hits-3-billion-in-annualized-revenue-on-business-demand-for-ai.html
+    https://seekingalpha.com/news/4419473-anthropic-reaches-1_4b-in-annualized-revenue-report
+  NOTE: Anthropic does not report quarterly revenue. The $0.35B figure used for Q1 2025 is
+  an estimate: monthly revenue implied by the ARR path across Jan-Mar 2025 sums to ~$0.34B.
+  Cross-checked against Anthropic's Q2 2025 revenue of $787M, reported by Bloomberg from
+  investor documents - Q1 must sit well below that, and it does. Flagged "Estimate".
+    https://finance.yahoo.com/technology/ai/articles/anthropic-revenue-run-rate-surpasses-193745178.html
+- Nvidia Q1 FY2026 ($44.1B, ended Apr 27 2025): https://investor.nvidia.com/news/press-release-details/2025/NVIDIA-Announces-Financial-Results-for-First-Quarter-Fiscal-2026/default.aspx
+- Nvidia Q1 FY2027 ($81.6B, ended Apr 26 2026): https://www.cnbc.com/2026/05/20/nvidia-nvda-earnings-report-q1-2027.html
+- Nvidia FY2026 full-year (8-K, $215.9B): https://www.sec.gov/Archives/edgar/data/1045810/000104581026000019/q4fy26cfocommentary.htm
+- Google Cloud Q1 2025 vs Q1 2026 ($12.26B -> $20.03B): https://axis-intelligence.com/google-statistics/
+- Alphabet Q1 2026 results (8-K): https://www.sec.gov/Archives/edgar/data/1652044/000165204426000043/googexhibit991q12026.htm
+
+MONETIZATION STRATEGY / REVENUE MIX
+- OpenAI revenue mix (consumer-led): https://www.revenuememo.com/p/how-does-openai-make-money
+- OpenAI enterprise share: https://valueaddvc.com/blog/openai-enterprise-revenue-2026-what-we-know-about-contracts-seats-and-arr
+- Anthropic ~80% enterprise/API: https://valueaddvc.com/blog/how-does-anthropic-make-money-claude-api-enterprise-business-model-breakdown
+- OpenAI vs Anthropic inverse mix: https://www.saastr.com/anthropic-may-never-catch-openai-but-its-already-40-as-big
+
+ADOPTION MILESTONES
+- OpenAI user milestones: https://aibusinessweekly.net/p/openai-statistics
+- Claude MAU (Statista, 5M->245M): https://www.statista.com/statistics/1659723/global-monthly-claude-users/
+- Claude user stats: https://www.demandsage.com/claude-ai-statistics/
+
+
+--- DATASET 2: ISRAEL DATA CENTER / AI INFRASTRUCTURE ---
+
+FACILITIES & OWNERSHIP
+- Nvidia Mevo Carmel ($1.5B): https://www.marketresearch.com/Arizton-v4150/Israel-Data-Center-Investment-Growth-44512085/
+- Israel data center market / hyperscaler activity: https://www.arizton.com/market-reports/israel-data-center-market
+- AWS Sharon expansion (Nov 2025 LOI): https://www.marketresearch.com/Arizton-v4150/Israel-Data-Center-Investment-Growth-44512085/
+- MedOne $270M underground DCs: https://www.dcmarketinsights.com/report/israel-data-center-market
+
+GOVERNMENT / NIMBUS (business facts only)
+- Project Nimbus $1.2B (Google+Amazon, 2021): https://en.wikipedia.org/wiki/Project_Nimbus
+
+ISRAELI-OWNED PLAYERS
+- Mega DC financials (313 MW, NIS 1B+ NOI): https://www.calcalistech.com/ctechnews/article/utvgnmndo
+- Israel data center market size & entrants (Ofek, Keystone, Mega DC): https://www.arizton.com/market-reports/israel-data-center-market
+
+MARKET & REGULATION
+- Market size $539M->$1.81B, 927 MW pipeline: https://www.arizton.com/market-reports/israel-data-center-market
+- AI infrastructure fast-track (Feb 2026): https://www.researchandmarkets.com/reports/5820214/israel-data-center-market-investment-analysis
+
+ELECTRICITY GRID BOTTLENECK (key "how Israel is influenced" finding)
+- 140-day grid freeze / 27 GW requests: https://www.calcalistech.com/ctechnews/article/tvp6729tr
+- ~10% of national electricity by early 2030s: https://www.calcalistech.com/ctechnews/article/hyyiuhj4fx
+- Grid freeze summary: https://www.jns.org/news/israel-news/israel-halts-new-data-center-grid-requests-for-140-days-amid-surge-in-demand
+- Environmental/energy context: https://www.ynetnews.com/environment/article/h12er7mvwe
+
+================================================================
+NOTE ON PRIVATE-COMPANY FIGURES:
+OpenAI and Anthropic do not publish audited financials. Their
+revenue/valuation/user figures are the most widely-cited third-party
+and press-reported estimates, flagged "Estimate" in the dataset.
+Nvidia and Alphabet figures are from audited SEC filings, flagged
+"Confirmed".
+================================================================
+
+
+--- DATASET 3: DAILY STOCK PRICES (market layer) ---
+
+Tickers: NVDA (Nvidia), GOOGL (Alphabet), AMD, META (Meta Platforms)
+Range: 2015-01-01 to 2026-08-11 (daily, trading days only)
+Retrieved via: yfinance Python library (Yahoo Finance)
+- Yahoo Finance NVDA: https://finance.yahoo.com/quote/NVDA/history/
+- Yahoo Finance GOOGL: https://finance.yahoo.com/quote/GOOGL/history/
+- Yahoo Finance AMD: https://finance.yahoo.com/quote/AMD/history/
+- Yahoo Finance META: https://finance.yahoo.com/quote/META/history/
+- yfinance library: https://pypi.org/project/yfinance/
+
+Note: AMD and Meta are included in this layer as publicly traded industry
+players. Nvidia and AMD are AI chip/infrastructure companies. Meta is a
+frontier model developer (Llama family, open-weight) that monetizes
+indirectly via advertising rather than subscriptions or API sales.
+OpenAI and Anthropic are absent from this layer because they are private
+and have no publicly traded stock.
+
+
+--- DATASET 4: AI MODEL RELEASE / BENCHMARK EVENTS ---
+
+- Kaggle: LLM Benchmark Tracker 2020-2026
+  https://www.kaggle.com/datasets/lizzulfiqar/llm-benchmark-tracker-20202026
+  Downloads as a zip containing three CSV files:
+    * frontier_models1.csv     -  80 rows x 32 cols - flagship commercial models,
+                                  includes per-token input/output pricing
+    * research_models1.csv     - 106 rows x 29 cols - academic/research models
+    * community_finetunes1.csv - 100 rows x 24 cols - community fine-tunes
+  Combined: 286 rows. Coverage spans 2020-06 to 2026-03.
+  Of the 80 frontier models, 64 are from the four target companies
+  (OpenAI 26, Google 19, Anthropic 17, Meta 2).
+  Known structural gaps documented by the dataset author rather than filled in:
+  per-token pricing is absent for 24 of 80 frontier rows because models
+  released before GPT-3.5 Turbo (Nov 2022) predate public per-token API
+  pricing; Arena Elo is absent for models predating the LMSYS Chatbot Arena
+  launch (May 2023).
+
+================================================================

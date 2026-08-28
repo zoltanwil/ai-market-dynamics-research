@@ -1,0 +1,51 @@
+company,metric,value,unit,period,yoy_or_change,confidence,source_type
+OpenAI,First paid consumer tier launch,ChatGPT Plus,date=2023-02,2023 Q1,~3 months after ChatGPT public launch,Confirmed,Company/press
+Anthropic,First paid consumer tier launch,Claude Pro,date=2023-09-07,2023 Q3,~6 months after Claude public launch,Confirmed,Company/press
+Google/Gemini,First paid consumer tier launch,Gemini Advanced / One AI Premium,date=2024-02-08,2024 Q1,~9+ months after Bard launch,Confirmed,Company/press
+Nvidia,First paid consumer tier launch,"N/A (hardware, no subscription)",,,,Confirmed,
+OpenAI,Entry subscription price,20,USD/month,2023-02 to present,Unchanged since launch,Confirmed,Company/press
+Anthropic,Entry subscription price,20,USD/month,2023-09 to present,Unchanged (17 annual),Confirmed,Company/press
+Google/Gemini,Entry subscription price,19.99,USD/month,2024-02 to present,Unchanged (bundled 2TB storage),Confirmed,Company/press
+OpenAI,Top consumer tier price,200,USD/month,2024-12 (Pro launch),Added Dec 2024; 2nd Pro tier $100 Apr 2026,Confirmed,Company/press
+Anthropic,Top consumer tier price,200,USD/month,2025-04 (Max launch),Max $100/$200 added Apr 2025,Confirmed,Company/press
+Google/Gemini,Top consumer tier price,199.99,USD/month,"2026 (I/O, Ultra split)",Ultra split $99.99/$199.99 at I/O 2026,Confirmed,Company/press
+OpenAI,Flagship API output price (launch),60,USD/million tokens,2023-03 (GPT-4),baseline,Confirmed,Company/press
+OpenAI,Flagship API output price (mid-2024),15,USD/million tokens,2024-05 (GPT-4o),-75% vs GPT-4 launch,Confirmed,Company/press
+OpenAI,Flagship API output price (late-2024),10,USD/million tokens,2024-10 (GPT-4o cut),-83% vs GPT-4 launch,Confirmed,Company/press
+Anthropic,Flagship API output price (Opus 4/4.1),75,USD/million tokens,2025 (Opus 4/4.1),baseline,Confirmed,Company/press
+Anthropic,Flagship API output price (Opus 4.5),25,USD/million tokens,2025-11 (Opus 4.5),-67% vs Opus 4,Confirmed,Company/press
+OpenAI,Quarterly revenue,2.0,USD billion,2025 Q1,baseline; consistent with $4.3B reported for H1 2025 and ~$8B ARR in Mar 2025,Estimate,Press (private co.)
+OpenAI,Quarterly revenue,5.7,USD billion,2026 Q1,up from $2.0B Q1 2025 (2.85x),Estimate,Press (private co.)
+OpenAI,Annual revenue,1.6,USD billion,2023,baseline for the 2023->2025 volume comparison on Slide 11; end-2023 annualized run-rate per The Information. Reported figures for 2023 range $1-2B depending on whether booked revenue or run-rate is used,Estimate,Press (private co.)
+OpenAI,Annual revenue,13.07,USD billion,2025,up from ~$1.6B in 2023 (8.2x); audited 2025 financials reported by FT/Fortune. Epoch AI's like-for-like annualized comparison gives 6.5x - the honest range is 6.5x-13x and 8.2x sits inside it,Estimate,Press (private co.)
+OpenAI,Annualized revenue run-rate,25,USD billion,2026 Q1 (Feb peak),up from ~$8B ARR Q1 2025 (~3x),Estimate,Press (private co.)
+Anthropic,Quarterly revenue,0.35,USD billion,2025 Q1,baseline; derived from company-confirmed ARR of $1.0B at end-2024 rising to $2.0B by end-March 2025 (~$0.34B for the quarter); consistent with $787M reported for Q2 2025,Estimate,Press (private co.)
+Anthropic,Quarterly revenue,4.8,USD billion,2026 Q1,up from $0.35B Q1 2025 (13.7x),Estimate,Press (private co.)
+Anthropic,Annualized revenue run-rate,30,USD billion,2026 Q1 (Apr),up from ~$1.4B ARR Q1 2025 (~20x),Estimate,Press (private co.)
+Nvidia,Quarterly revenue,44.1,USD billion,"2025 Q1 (FY26 Q1, ended 2025-04-27)",baseline,Confirmed,SEC filing
+Nvidia,Quarterly revenue,81.6,USD billion,"2026 Q1 (FY27 Q1, ended 2026-04-26)",+85% YoY,Confirmed,SEC filing
+Google Cloud,Quarterly revenue,12.26,USD billion,2025 Q1,baseline,Confirmed,SEC filing
+Google Cloud,Quarterly revenue,20.03,USD billion,2026 Q1,+63% YoY,Confirmed,SEC filing
+Alphabet (total),Quarterly revenue,90.2,USD billion,2025 Q1,baseline,Confirmed,SEC filing
+Alphabet (total),Quarterly revenue,109.9,USD billion,2026 Q1,+22% YoY,Confirmed,SEC filing
+OpenAI,Revenue mix - consumer subscription,70,percent,2024-2026 (approx),consumer-led; ~55-70% by early 2026,Estimate,Press (private co.)
+OpenAI,Revenue mix - API/platform,20,percent,2025-2026 (approx),~15-25%,Estimate,Press (private co.)
+OpenAI,Revenue mix - enterprise,40,percent,2026 Q1,"enterprise >40%, nearing consumer parity",Estimate,Press (private co.)
+Anthropic,Revenue mix - enterprise/API,80,percent,2025-2026,API + enterprise ~70-85%,Estimate,Press (private co.)
+Anthropic,Revenue mix - consumer subscription,20,percent,2025-2026,consumer ~15-20% (inverse of OpenAI),Estimate,Press (private co.)
+Nvidia,Revenue mix - Data Center segment,90,percent,FY2026,$193.5B of $215.9B (~90%),Confirmed,SEC filing
+Google Cloud,Revenue mix - AI/enterprise driver,63,percent,2026 Q1,enterprise AI now primary cloud growth driver,Confirmed,SEC filing / earnings call
+OpenAI,Operating margin,-122,percent,2026 Q1,loses ~$1.22 per $1 revenue; not profitable before ~2029-2030,Estimate,Press (private co.)
+OpenAI,Gross margin trajectory,33,percent,2025 (down from 40% 2024),consumer free-user drag; targeting ~52% by end 2026,Estimate,Press (private co.)
+Anthropic,Gross margin trajectory,60,percent,2026 (up from -94% in 2024),inference-efficiency driven; first operating profit guided Q2 2026,Estimate,Press (private co.)
+Nvidia,Net margin,55.6,percent,FY2026,$120.1B net income on $215.9B revenue,Confirmed,SEC filing
+Alphabet (total),Operating margin,32.0,percent,FY2025,$129.0B operating income; consistently profitable,Confirmed,SEC filing
+OpenAI,ChatGPT weekly active users,300,million,2024 late,milestone point,Confirmed,Company/press
+OpenAI,ChatGPT weekly active users,700,million,2025 mid,milestone point,Confirmed,Company/press
+OpenAI,ChatGPT weekly active users,905,million,2026 Q1,milestone point,Confirmed,Company/press
+OpenAI,Paying consumer subscribers,47,million,2025 end,milestone point,Estimate,Press (private co.)
+OpenAI,Paying consumer subscribers,55,million,2026 Q1,milestone point,Estimate,Press (private co.)
+Anthropic,Claude monthly active users,18.8,million,2024-11,milestone point (web),Estimate,Third-party
+Anthropic,Claude monthly active users,30,million,2025 mid,milestone point,Estimate,Third-party
+Anthropic,Claude monthly active users,245,million,2026-06,"milestone point (Sensor Tower, broad measure)",Estimate,Third-party
+Google/Gemini,Gemini app monthly active users,900,million,2026-05,milestone point,Estimate,Press
