@@ -167,13 +167,13 @@ This project demonstrates:
 
 ## Interactive Dashboard
 
-**Tableau Public:** [Link to your published dashboard]
+**Tableau Public:** https://public.tableau.com/app/profile/zoltan.wil/viz/The_Market_Layer_Complete/Themarketlayer1600x900#1
 
 Filters included:
 - Company (OpenAI, Anthropic, Nvidia, Google, Meta)
 - Metric (Revenue, ARR, User Count, Price, Margin)
 - Time period (Q1 2023 → Q1 2026)
-- Geography (Israel focus option)
+
 
 ## Sources & Methodology
 
@@ -187,26 +187,6 @@ Confidence tiers ("Confirmed" = SEC/official press; "Estimate" = analyst/press-r
 
 See `SOURCES.txt` for full citations.
 
-## Instructor Feedback Applied
-
-- **Narrative Flow:** Structured findings around business questions (pricing, revenue, adoption, infrastructure)
-- **Data Transparency:** All confidence tiers and sources documented; no speculation
-- **Actionable Insights:** Each section connects to competitive implications or policy risk
-- **Visual Clarity:** Tableau dashboard optimized for recruiter/stakeholder scanning (3-5 sec comprehension)
-
 ## Author
 
 **Zoltan Wilhelm** | Data Research Analyst | August 2026
-
-Portfolio: [Your LinkedIn URL]
-Certificate: Data Research Analyst, [Course Name]
-
----
-
-## Next Steps
-
-- [ ] Publish Tableau dashboard to Tableau Public
-- [ ] Add link to interactive dashboard in README
-- [ ] Share analysis with mentors for feedback
-- [ ] Adapt insights for job applications (case interview preparation)
-
